@@ -1,5 +1,5 @@
 ﻿# Kotlin-TP2
-## Bonjour monsieur voci le projet de :
+## Bonjour monsieur voici le projet de :
 
 - Niamké N'dédé Ange Joseph
 - Kanga Wilfried 
