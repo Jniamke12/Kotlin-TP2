@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Network Niamké Joseph et Kanga wilfried</string>
+
+    <string name="menu_reinitialiser">Réinitialiser le réseau</string>
+    <string name="menu_sauvegarder">Sauvegarder</string>
+    <string name="menu_afficher">Afficher réseau sauvegardé</string>
+    <string name="menu_envoyer">Envoyer par mail</string>
+
+    <string name="mode_ajout_objets">+ Objet</string>
+    <string name="mode_ajout_connexions">+ Connexion</string>
+    <string name="mode_modification">Modifier</string>
+
+    <string name="titre_nom_objet">Nom de l\'objet :</string>
+    <string name="titre_nom_connexion">Nom de la connexion :</string>
+    <string name="bouton_ok">OK</string>
+    <string name="bouton_annuler">Annuler</string>
+    <string name="titre_options_objet">Options de l\'objet</string>
+    <string name="titre_options_connexion">Options de la connexion</string>
+    <string name="action_supprimer">Supprimer</string>
+    <string name="action_modifier_etiquette">Modifier l\'étiquette</string>
+    <string name="action_changer_couleur">Changer la couleur</string>
+    <string name="action_changer_epaisseur">Changer l\'épaisseur</string>
+</resources>

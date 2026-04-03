@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_reinitialiser"
+        android:title="@string/menu_reinitialiser"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_sauvegarder"
+        android:title="@string/menu_sauvegarder"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_charger"
+        android:title="@string/menu_afficher"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_envoyer"
+        android:title="@string/menu_envoyer"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/mode_ajout_objets"
+        android:title="@string/mode_ajout_objets"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/mode_ajout_connexions"
+        android:title="@string/mode_ajout_connexions"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/mode_modification"
+        android:title="@string/mode_modification"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_changer_plan"
+    android:title="Changer le plan"
+    app:showAsAction="never" />
+</menu>
